@@ -1,0 +1,15 @@
+{
+  "name": "@kovsu/eslint-config-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --config=index.js"
+  },
+  "keywords": [],
+  "author": "konv",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.28.0"
+  }
+}
