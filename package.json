@@ -3,18 +3,10 @@
   "version": "1.0.0",
   "description": "Konv Suu's ESLint config",
   "main": "index.js",
-  "scripts": {},
   "keywords": [
     "eslint",
     "config"
   ],
   "author": "konv",
-  "license": "ISC",
-  "peerDependencies": {
-    "eslint": ">= 8.28.0"
-  },
-  "devDependencies": {
-    "@kovsu/eslint-config-basic": "workspace:^1.0.0",
-    "eslint": "^8.28.0"
-  }
+  "license": "ISC"
 }

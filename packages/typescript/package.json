@@ -1,0 +1,20 @@
+{
+  "name": "typescript",
+  "version": "0.1.0",
+  "description": "typescript config",
+  "main": "index.js",
+  "keywords": [],
+  "author": "konv",
+  "license": "ISC",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@kovsu/eslint-config-basic": "workspace:*",
+    "@typescript-eslint/eslint-plugin": "^5.43.0",
+    "@typescript-eslint/parser": "^5.43.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.27.0"
+  }
+}
