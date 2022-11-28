@@ -1,9 +1,8 @@
 {
-  "name": "typescript",
+  "name": "@kovsu/eslint-config-ts",
   "version": "0.1.0",
   "description": "typescript config",
   "main": "index.js",
-  "keywords": [],
   "author": "konv",
   "license": "ISC",
   "files": [
@@ -16,5 +15,8 @@
   },
   "devDependencies": {
     "eslint": "^8.27.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
