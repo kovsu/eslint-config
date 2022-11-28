@@ -1,0 +1,10 @@
+{
+  "name": "@kovsu/eslint-config-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Konv Suu",
+  "license": "ISC"
+}
